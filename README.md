@@ -22,7 +22,7 @@ The source code is private and not open for public development at this time.
 
 ## Preview
 
-| Desktop | Mobile |
+| Light | Dark |
 |:--:|:--:|
 | ![Light Mode](./img/herolight.avif) | ![Dark Mode](./img/herodark.avif) |
 | ![App Light](./img/applight.avif) | ![App Dark](./img/appdark.avif) |
@@ -87,4 +87,5 @@ See [LICENSE](./LICENSE) for details.
 ---
 
 _Honmaku – a simple, dark-mode anime tracker built for fans, not algorithms._
+
 
