@@ -1,10 +1,22 @@
 # Honmaku
 
+
+<p align="center">
+  <a href="https://honmaku.vercel.app" target="_blank">
+    <img src="./img/honmaku.jpg" alt="Honmaku" width="480">
+  </a>
+</p>
+
+[Visit Honmaku](https://honmaku.vercel.app)
+
+[Honmamku Status](https://lhmchyd.github.io/HonMaku-Status)
+
 **Honmaku** is a simple, privacy-friendly anime tracker built with [Svelte](https://svelte.dev) and [shadcn-svelte](https://ui.shadcn.com).  
 It’s currently under active development and aims to provide a fast, elegant, and login-free way to manage your anime list — all stored locally in your browser.
 
 This repository is for **discussions, feedback, and community interaction** about Honmaku.  
 The source code is private and not open for public development at this time.
+
 
 ---
 
@@ -12,7 +24,8 @@ The source code is private and not open for public development at this time.
 
 | Desktop | Mobile |
 |:--:|:--:|
-| ![Desktop Preview](./assets/desktop-preview.png) | ![Mobile Preview](./assets/mobile-preview.png) |
+| ![Light Mode](./img/herolight.avif) | ![Dark Mode](./img/herodark.avif) |
+| ![App Light](./img/applight.avif) | ![App Dark](./img/appdark.avif) |
 
 ---
 
@@ -74,3 +87,4 @@ See [LICENSE](./LICENSE) for details.
 ---
 
 _Honmaku – a simple, dark-mode anime tracker built for fans, not algorithms._
+
